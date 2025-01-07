@@ -1,4 +1,4 @@
-# CloudbasedImageRecognition
+# Cloud based Image Recognition
 Problem Statement:Develop a cloud-based image recognition system to classify uploaded images using a Convolutional Neural Network (CNN) and display performance metrics.<br>
 
 Workflow:
